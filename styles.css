@@ -116,6 +116,11 @@ h1.large {
     line-height: 70px;
 }
 
+h1.section2Header {
+    font-size: 65px;
+    text-align: center;
+}
+
 form h2 {
     color: #fff;
 }
